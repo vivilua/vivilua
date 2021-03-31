@@ -1,8 +1,8 @@
 ## hi.
 
 my name's vivy! just a kid playing around with code, nothing much to see here.
--💥 pronouns: she/her
--🧡 site: vivilua.github.io
+- 💥 pronouns: she/her
+- 🧡 site: vivilua.github.io
 
 <!--**vivilua/vivilua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
